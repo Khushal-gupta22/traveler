@@ -1,0 +1,544 @@
+[
+  {
+    "userId": "12345",
+    "itinerary": {
+      "destination": "Meghalaya, India",
+      "travel_dates": {
+        "start_date": "2024-12-04",
+        "end_date": "2024-12-11"
+      },
+      "budget": "luxury",
+      "travel_group": "family",
+      "itinerary": [
+        {
+          "day": 1,
+          "date": "2024-12-04",
+          "activities": [
+            {
+              "time": "12:00 PM",
+              "activity": "Arrive at Guwahati Airport",
+              "details": "Upon arrival, you will be greeted by your private driver and transferred to your luxurious resort in Shillong. Enjoy a comfortable ride and admire the scenic landscapes on the way."
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Check-in at Vivanta by Taj - Shillong",
+              "details": "Settle in at your 5-star resort, Vivanta by Taj - Shillong, renowned for its breathtaking views, luxurious amenities, and impeccable service."
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Afternoon Tea at The Orchid",
+              "details": "Indulge in a delightful afternoon tea experience at The Orchid, known for its beautiful gardens and delectable pastries."
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Explore Elephant Falls",
+              "details": "Embark on a scenic drive to Elephant Falls, a picturesque waterfall cascading down a series of rocky steps. Enjoy the tranquility of the surrounding rainforest."
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Dinner at a Local Restaurant",
+              "details": "Savor a delicious dinner at a local restaurant, showcasing the flavors of Meghalayan cuisine."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2024-12-05",
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Visit Umiam Lake",
+              "details": "Explore the serene beauty of Umiam Lake, a picturesque lake surrounded by lush greenery. Take a boat ride or enjoy a leisurely walk around the lake."
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Visit Nohkalikai Falls",
+              "details": "Experience the grandeur of Nohkalikai Falls, the tallest plunge waterfall in India, cascading from a breathtaking height."
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at a Local Eatery",
+              "details": "Enjoy a delicious lunch at a local eatery, savoring the authentic flavors of Meghalayan cuisine."
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Explore Seven Sisters Falls",
+              "details": "Embark on a scenic drive to Seven Sisters Falls, a series of seven cascading waterfalls. Enjoy the beauty of the natural surroundings."
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Return to Shillong",
+              "details": "Return to your resort in Shillong, enjoying the scenic views on the way."
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at The Orchid",
+              "details": "Indulge in a delicious dinner at The Orchid, enjoying the ambiance of the restaurant."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2024-12-06",
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Explore Shillong Peak",
+              "details": "Ascend Shillong Peak, offering breathtaking panoramic views of the city and surrounding valleys. Capture stunning photographs and enjoy the fresh mountain air."
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Visit Lady Hydari Park",
+              "details": "Take a leisurely stroll through Lady Hydari Park, a beautiful park with colorful flowers, a children's play area, and a serene ambiance."
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at a Local Restaurant",
+              "details": "Enjoy a delicious lunch at a local restaurant, savoring the flavors of Meghalayan cuisine."
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Visit Don Bosco Museum",
+              "details": "Explore the fascinating Don Bosco Museum, showcasing the history and culture of Meghalaya, including tribal artifacts, art, and photographs."
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Evening Leisure",
+              "details": "Enjoy a relaxing evening at your resort, soaking in the tranquil atmosphere and experiencing the luxurious amenities."
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Vivanta by Taj - Shillong",
+              "details": "Indulge in a delectable dinner at your resort's restaurant, savoring the fine dining experience."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2024-12-07",
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Drive to Cherrapunji",
+              "details": "Embark on a scenic drive to Cherrapunji, renowned for its breathtaking waterfalls, lush forests, and captivating views."
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Visit Seven Sisters Falls",
+              "details": "Experience the grandeur of Seven Sisters Falls, a series of seven cascading waterfalls, surrounded by lush greenery."
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Lunch at a Local Restaurant",
+              "details": "Enjoy a delicious lunch at a local restaurant, savoring the flavors of Meghalayan cuisine."
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Explore Nohkalikai Falls",
+              "details": "Witness the awe-inspiring Nohkalikai Falls, the tallest plunge waterfall in India, cascading from a breathtaking height."
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Visit Mawsmai Cave",
+              "details": "Venture into the mysterious Mawsmai Cave, a limestone cave with stunning formations, offering a glimpse into the geological wonders of the region."
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Check-in at The Heritage Village Resort",
+              "details": "Check-in at The Heritage Village Resort, a luxurious resort nestled amidst the picturesque landscapes of Cherrapunji, offering serene views and luxurious amenities."
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at The Heritage Village Resort",
+              "details": "Indulge in a delicious dinner at the resort's restaurant, savoring the flavors of Meghalayan cuisine."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2024-12-08",
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Visit Nohkalikai Falls",
+              "details": "Experience the grandeur of Nohkalikai Falls, the tallest plunge waterfall in India, cascading from a breathtaking height."
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Visit Eco Park",
+              "details": "Explore the serene Eco Park, a beautiful park with lush gardens, scenic views, and a peaceful ambiance."
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at a Local Restaurant",
+              "details": "Enjoy a delicious lunch at a local restaurant, savoring the flavors of Meghalayan cuisine."
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Visit Wahkaba Falls",
+              "details": "Experience the beauty of Wahkaba Falls, a picturesque waterfall cascading down a rocky cliff, surrounded by lush greenery."
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Visit The Living Root Bridges",
+              "details": "Witness the remarkable Living Root Bridges, a unique and awe-inspiring network of bridges naturally grown from the roots of rubber trees, offering a glimpse into the ingenuity of nature."
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Return to Cherrapunji",
+              "details": "Return to your resort in Cherrapunji, enjoying the scenic views on the way."
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at The Heritage Village Resort",
+              "details": "Indulge in a delicious dinner at the resort's restaurant, savoring the flavors of Meghalayan cuisine."
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2024-12-09",
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Visit Nohkalikai Falls",
+              "details": "Experience the grandeur of Nohkalikai Falls, the tallest plunge waterfall in India, cascading from a breathtaking height."
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Visit Eco Park",
+              "details": "Explore the serene Eco Park, a beautiful park with lush gardens, scenic views, and a peaceful ambiance."
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at a Local Restaurant",
+              "details": "Enjoy a delicious lunch at a local restaurant, savoring the flavors of Meghalayan cuisine."
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Visit Wahkaba Falls",
+              "details": "Experience the beauty of Wahkaba Falls, a picturesque waterfall cascading down a rocky cliff, surrounded by lush greenery."
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Visit The Living Root Bridges",
+              "details": "Witness the remarkable Living Root Bridges, a unique and awe-inspiring network of bridges naturally grown from the roots of rubber trees, offering a glimpse into the ingenuity of nature."
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Return to Cherrapunji",
+              "details": "Return to your resort in Cherrapunji, enjoying the scenic views on the way."
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at The Heritage Village Resort",
+              "details": "Indulge in a delicious dinner at the resort's restaurant, savoring the flavors of Meghalayan cuisine."
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2024-12-10",
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Drive back to Guwahati",
+              "details": "Embark on a scenic drive back to Guwahati, enjoying the landscapes of Meghalaya on the way."
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Visit Kamakhya Temple",
+              "details": "Experience the spiritual significance of Kamakhya Temple, an ancient temple dedicated to the goddess Kamakhya, known for its religious and cultural importance."
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at a Local Restaurant",
+              "details": "Enjoy a delicious lunch at a local restaurant, savoring the flavors of Assamese cuisine."
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Visit Umananda Temple",
+              "details": "Explore the serene Umananda Temple, a sacred temple located on an island in the Brahmaputra River, offering a peaceful escape."
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Evening Leisure",
+              "details": "Enjoy a relaxing evening in Guwahati, strolling through the bustling markets or enjoying a peaceful sunset by the Brahmaputra River."
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at a Local Restaurant",
+              "details": "Indulge in a delicious dinner at a local restaurant, savoring the flavors of Assamese cuisine."
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2024-12-11",
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Transfer to Guwahati Airport",
+              "details": "Enjoy a comfortable transfer to Guwahati Airport for your departure."
+            }
+          ]
+        }
+      ],
+      "accommodation": {
+        "hotel_name": "Vivanta by Taj - Shillong",
+        "rating": "5-star",
+        "location": "Shillong, Meghalaya",
+        "amenities": [
+          "Swimming pool",
+          "Spa",
+          "Fitness center",
+          "Fine dining restaurants",
+          "Luxury rooms with breathtaking views"
+        ]
+      },
+      "budget_breakdown": {
+        "accommodation": "$2,000",
+        "food": "$1,000",
+        "activities": "$500",
+        "total": "$3,500"
+      }
+    },
+    "savedAt": "2024-09-19T18:26:37.306Z"
+  },
+  {
+    "userId": "12345",
+    "itinerary": {
+      "destination": "Florence, Metropolitan City of Florence, Italy",
+      "travel_dates": {
+        "start_date": "2024-11-02",
+        "end_date": "2024-11-08"
+      },
+      "budget": "luxury",
+      "travel_group": "family",
+      "itinerary": [
+        {
+          "day": 1,
+          "date": "2024-11-02",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Arrival at Florence Airport (FLR)",
+              "details": "Arrive at Florence Airport and transfer to your luxurious hotel. Settle in, unpack, and enjoy a relaxing afternoon."
+            },
+            {
+              "time": "1:00 PM",
+              "activity": "Lunch at La Terrazza Rooftop Restaurant",
+              "details": "Enjoy a delicious Italian lunch with stunning views of Florence at the opulent La Terrazza Rooftop Restaurant at the Hotel Pitti Palace al Ponte Vecchio."
+            },
+            {
+              "time": "3:00 PM",
+              "activity": "Private Guided Tour of Palazzo Pitti",
+              "details": "Embark on a private guided tour of Palazzo Pitti, one of Florence's grandest palaces, exploring its exquisite art collections and gardens."
+            },
+            {
+              "time": "6:00 PM",
+              "activity": "Dinner at Gucci Osteria da Massimo Bottura",
+              "details": "Dine at the acclaimed Gucci Osteria da Massimo Bottura, known for its innovative Italian cuisine and elegant atmosphere."
+            },
+            {
+              "time": "8:00 PM",
+              "activity": "Evening Stroll across Ponte Vecchio",
+              "details": "Take a romantic evening stroll across the Ponte Vecchio, the only bridge in Florence that was spared destruction during World War II, admiring its charming shops and the illuminated cityscape."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2024-11-03",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "activity": "Visit the Uffizi Gallery",
+              "details": "Explore the Uffizi Gallery, a world-renowned art museum showcasing masterpieces by Florentine Renaissance artists like Leonardo da Vinci, Michelangelo, and Botticelli."
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Lunch at Trattoria Sabatino",
+              "details": "Enjoy a traditional Tuscan lunch at Trattoria Sabatino, known for its authentic flavors and cozy ambiance."
+            },
+            {
+              "time": "2:00 PM",
+              "activity": "Explore the Duomo (Cathedral of Florence)",
+              "details": "Ascend to the top of Brunelleschi's Dome for panoramic views of Florence, then explore the interior of the Duomo, a masterpiece of Gothic architecture."
+            },
+            {
+              "time": "5:00 PM",
+              "activity": "Visit the Galleria dell'Accademia",
+              "details": "See Michelangelo's iconic David statue at the Galleria dell'Accademia, alongside other Florentine Renaissance sculptures."
+            },
+            {
+              "time": "7:00 PM",
+              "activity": "Aperitivo and Dinner at La Giostra",
+              "details": "Experience a traditional Italian aperitivo at La Giostra, a popular restaurant known for its lively atmosphere and delicious Tuscan cuisine."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2024-11-04",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "activity": "Private Cooking Class",
+              "details": "Learn the secrets of Tuscan cuisine in a private cooking class, preparing authentic dishes with local ingredients and enjoying a delicious meal afterwards."
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Lunch at La Cocotte",
+              "details": "Enjoy a delightful lunch at La Cocotte, a charming restaurant specializing in French cuisine with a Tuscan twist."
+            },
+            {
+              "time": "2:00 PM",
+              "activity": "Visit the Bargello",
+              "details": "Explore the Bargello, a museum housing a remarkable collection of Renaissance sculptures, including works by Donatello and Michelangelo."
+            },
+            {
+              "time": "5:00 PM",
+              "activity": "Stroll through the Boboli Gardens",
+              "details": "Relax and enjoy a leisurely stroll through the Boboli Gardens, a stunning Renaissance garden with fountains, sculptures, and panoramic views of Florence."
+            },
+            {
+              "time": "7:00 PM",
+              "activity": "Dinner at La Terrazza",
+              "details": "Dine at the elegant La Terrazza restaurant, located in the heart of Florence and offering exquisite Italian cuisine and breathtaking views."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2024-11-05",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Day Trip to Siena",
+              "details": "Enjoy a day trip to the beautiful medieval town of Siena, exploring its historic center, Piazza del Campo, and enjoying a traditional Tuscan lunch."
+            },
+            {
+              "time": "2:00 PM",
+              "activity": "Visit the Siena Cathedral",
+              "details": "Explore the impressive Siena Cathedral, known for its stunning Gothic architecture and artwork."
+            },
+            {
+              "time": "5:00 PM",
+              "activity": "Return to Florence",
+              "details": "Return to Florence and enjoy a relaxing evening at your hotel."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2024-11-06",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "activity": "Visit the Museo di San Marco",
+              "details": "Explore the Museo di San Marco, a former monastery housing iconic frescoes by Fra Angelico, showcasing his masterful style."
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Lunch at La Buchetta",
+              "details": "Enjoy a delightful lunch at La Buchetta, a traditional Tuscan restaurant known for its regional specialties and warm hospitality."
+            },
+            {
+              "time": "2:00 PM",
+              "activity": "Explore the Ponte Santa Trinita",
+              "details": "Stroll across the Ponte Santa Trinita, one of the oldest bridges in Florence, known for its picturesque views and charming architecture."
+            },
+            {
+              "time": "4:00 PM",
+              "activity": "Visit the Museo di Palazzo Davanzati",
+              "details": "Explore the Museo di Palazzo Davanzati, a museum showcasing a 14th-century Florentine palazzo, offering a glimpse into the lifestyle of a wealthy family during the Renaissance."
+            },
+            {
+              "time": "7:00 PM",
+              "activity": "Dinner at La Cocotte",
+              "details": "Dine at the charming La Cocotte restaurant, savoring its French-inspired cuisine and romantic atmosphere."
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2024-11-07",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Visit the Museo di Palazzo Vecchio",
+              "details": "Explore the Museo di Palazzo Vecchio, a museum housed in a stunning Renaissance palace, showcasing art and history from the 14th to 16th centuries."
+            },
+            {
+              "time": "1:00 PM",
+              "activity": "Lunch at La Terrazza Rooftop Restaurant",
+              "details": "Enjoy a delicious Italian lunch with breathtaking views of Florence at the opulent La Terrazza Rooftop Restaurant at the Hotel Pitti Palace al Ponte Vecchio."
+            },
+            {
+              "time": "3:00 PM",
+              "activity": "Private Wine Tasting",
+              "details": "Embark on a private wine tasting at a renowned local winery, sampling exquisite Tuscan wines and learning about their production process."
+            },
+            {
+              "time": "6:00 PM",
+              "activity": "Dinner at La Terrazza",
+              "details": "Dine at the elegant La Terrazza restaurant, located in the heart of Florence and offering exquisite Italian cuisine and breathtaking views."
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2024-11-08",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Relaxing Morning at the Hotel",
+              "details": "Enjoy a leisurely morning at your hotel, taking advantage of the luxurious amenities and relaxing by the pool."
+            },
+            {
+              "time": "1:00 PM",
+              "activity": "Lunch at La Cocotte",
+              "details": "Enjoy a delightful lunch at La Cocotte, savoring its French-inspired cuisine and romantic atmosphere."
+            },
+            {
+              "time": "3:00 PM",
+              "activity": "Shopping in Florence",
+              "details": "Explore the charming boutiques and artisan shops of Florence, discovering unique souvenirs and local crafts."
+            },
+            {
+              "time": "6:00 PM",
+              "activity": "Farewell Dinner at Gucci Osteria da Massimo Bottura",
+              "details": "Enjoy a final delicious Italian dinner at the acclaimed Gucci Osteria da Massimo Bottura, bidding farewell to Florence with a memorable culinary experience."
+            },
+            {
+              "time": "9:00 PM",
+              "activity": "Transfer to Florence Airport",
+              "details": "Transfer to Florence Airport for your flight home."
+            }
+          ]
+        }
+      ],
+      "accommodation": {
+        "hotel_name": "Hotel Pitti Palace al Ponte Vecchio",
+        "rating": "5-star",
+        "location": "Ponte Vecchio, Florence",
+        "amenities": [
+          "Free Wi-Fi",
+          "Spa",
+          "Fitness center",
+          "Rooftop pool",
+          "Concierge service",
+          "Airport transfer"
+        ]
+      },
+      "budget_breakdown": {
+        "accommodation": "$3,500",
+        "food": "$2,000",
+        "activities": "$1,500",
+        "total": "$7,000"
+      }
+    },
+    "savedAt": "2024-09-20T09:34:00.380Z"
+  }
+]
